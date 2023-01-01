@@ -4,6 +4,9 @@
  ```
  $ pkg update && pkg upgrade
  $ pkg install python git
+ $ pkg install pip
+ $ pip install rich
+ $ rm -rf BOT-FB
  $ git clone https://github.com/Xyaa-Code/BOT-FB
  ```
  oke sekarang script sudah terinstall
